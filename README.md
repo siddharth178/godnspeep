@@ -1,7 +1,7 @@
 # godnspeep
 spy on the DNS queries your computer is making
 
-This is quick and dirty port of [idea shared](http://jvns.ca/blog/2021/03/31/dnspeep-tool/) by [Julia Evans](https://twitter.com/b0rk). She wrote it in Rust, I thought giving it a try in Go could be fun and will get a chance to peek at [gopacket](https://github.com/google/gopacket). This into [blog post](https://itnext.io/sniffing-creds-with-go-a-journey-with-libpcap-73bc3e74966) about gopacket came in real handy.
+This is quick and dirty port of [idea shared](http://jvns.ca/blog/2021/03/31/dnspeep-tool/) by [Julia Evans](https://twitter.com/b0rk). She wrote it in Rust, I thought, giving it a try in Go could be fun and I'll get a chance to peek at [gopacket](https://github.com/google/gopacket). This into [blog post](https://itnext.io/sniffing-creds-with-go-a-journey-with-libpcap-73bc3e74966) about gopacket came in real handy.
 
 
 ## How to use it
